@@ -1,4 +1,4 @@
-# ![React + Redux Example App](project-logo.png)
+# ![React + Redux Example App](react_redux_ant.png)
 
 > Example React + Redux + ant.design boilerplate codebase [
 ## Getting started
