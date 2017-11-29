@@ -1,6 +1,6 @@
 # ![React + Redux Example App](react_redux_ant.png)
 
-> Example React + Redux + ant.design boilerplate codebase [
+> Example React + Redux + ant.design boilerplate codebase
 ## Getting started
 
 To get the frontend running locally:
